@@ -1,0 +1,43 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: black;
+  height: 100px;
+  width: 150px;
+}
+card1 {
+    background-color:#ffffff;
+    height: 100px;
+    width: 150px;
+}
+heading1 {
+    color:#ffffff;
+    font-size:25px;
+    font-family:"Roboto";
+}
+
+heading1 {
+    color:black;
+    font-size:25px;
+    font-family:"Roboto";
+}
+.button {
+    color:white;
+    font-size:10px;
+    font-family:"Roboto";
+    background-color:white;
+    border-radius:5px;
+    padding:10px;
+}
+.button1 {
+    color:black;
+    font-size:10px;
+    font-family:"Roboto";
+    background-color:white;
+    border-radius:5px;
+    padding:10px;
+}
